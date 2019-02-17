@@ -27,7 +27,7 @@ class LoginpageState extends State<Login> {
               children: <Widget>[
               Container(
               child: Image.asset(
-                "assets/img/2222.jpg",
+                "assets/img/gb.jpg",
               ),
               padding: EdgeInsets.fromLTRB(65.0, 20.0, 60.0, 0.0),
             ),
